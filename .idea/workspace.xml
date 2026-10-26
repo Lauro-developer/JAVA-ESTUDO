@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -29,45 +32,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Adivinhacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Banco.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Condicionais.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoDetemperatura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Desafios.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Estudos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercico.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fatorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImparOUpar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leitura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Media.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Menu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumeroInteiro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OutroLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Perfil.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PositivoNegativo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Soma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Soma_subtracao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tabuada.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/laurolllb/Desktop/JAVA-ESTUDO&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/laurolllb/Desktop/JAVA-ESTUDO/screenmatch/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Adivinhacao.executor": "Run",
+    "Application.Banco.executor": "Run",
+    "Application.Condicionais.executor": "Run",
+    "Application.ConversaoDetemperatura.executor": "Run",
+    "Application.Desafios.executor": "Run",
+    "Application.Estudos.executor": "Run",
+    "Application.Exercico.executor": "Run",
+    "Application.Fatorial.executor": "Run",
+    "Application.ImparOUpar.executor": "Run",
+    "Application.Leitura.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Media.executor": "Run",
+    "Application.Menu.executor": "Run",
+    "Application.NumeroInteiro.executor": "Run",
+    "Application.OutroLoop.executor": "Run",
+    "Application.Perfil.executor": "Run",
+    "Application.PositivoNegativo.executor": "Run",
+    "Application.Soma.executor": "Run",
+    "Application.Soma_subtracao.executor": "Run",
+    "Application.Tabuada.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/laurolllb/Desktop/JAVA-ESTUDO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/laurolllb/Desktop/JAVA-ESTUDO/screenmatch/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Banco" />
